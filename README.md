@@ -1,6 +1,6 @@
 # Boilerplate - Express, ejs
 
-Template project for using `express`, `ejs`.
+Template project for using `express`, `ejs`, `body-parser`.
 
 ## Setup
 
@@ -20,4 +20,3 @@ npm run start:dev
 ## Branching
 
 Different branches will be further development of the templates and introducing other libraries.
-
