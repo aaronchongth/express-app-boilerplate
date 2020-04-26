@@ -1,8 +1,8 @@
 # Template Express app
 
-Most of it is boilerplate code and project organization.
+Most of it is boilerplate code and project organization, similar to `express-generator` but with more personal preferences.
 
-Currently uses `express`, `ejs`, `body-parser`.
+Mainly uses `express`, `ejs`, `body-parser` and other non-essential libraries.
 
 CDNs and scripts: `bootstrap 4.4`, `Font Awesome`, `plyr`, `jQuery`
 
