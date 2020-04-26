@@ -1,11 +1,13 @@
-# Boilerplate - Express, ejs
+# Template Express app
 
-Template project for using `express`, `ejs`, `body-parser`.
+Most of it is boilerplate code and project organization.
+
+Currently uses `express`, `ejs`, `body-parser`.
 
 ## Setup
 
 ```bash
-git clone https://github.com/aaronchongth/express-ejs-boilerplate
+git clone https://github.com/aaronchongth/express-app-boilerplate
 
 cd express-ejs-boilerplate
 npm install
@@ -20,3 +22,4 @@ npm run start:dev
 ## Branching
 
 Different branches will be further development of the templates and introducing other libraries.
+
